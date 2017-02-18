@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PCB-backup
+*Date=00:16:20
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;5 mm [THT];4.07264;-5.97179;180;Bottom;IR COL
+2;;;21.772;-10.1301;0;Bottom;IMG1
+3;;DIP (Dual Inline) [THT];12.9626;-7.93281;0;Bottom;ATtiny13
+4;;;24.3926;-14.2829;0;Bottom;Hole1
+5;;;8.73495;-10.4606;90;Bottom;IMG3
+6;1M;THT;6.61264;-1.58281;0;Bottom;1MΩ
+7;;;1.53262;-14.2829;0;Bottom;Hole2
+8;;;11.2776;-6.4027;0;Bottom;Via1
+9;;;3.87103;-5.51376;0;Bottom;IMG1
+10;220;THT;14.2326;-14.2828;0;Bottom;220Ω
+11;;5 mm [THT];21.8526;-4.81383;0;Bottom;RED
+12;220;THT;19.3126;-1.58281;0;Bottom;220Ω
+13;;;4.40618;-11.7247;-90;Bottom;IMG2
+14;;TO92 [THT];3.98374;-11.9333;90;Bottom;PNP
+15;;3 mm [THT];21.8525;-11.0518;180;Bottom;IR
+16;;;14.3256;-5.1835;0;Bottom;Via2
+17;;;21.8793;-5.30067;0;Bottom;IMG1
